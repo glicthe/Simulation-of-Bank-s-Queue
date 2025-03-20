@@ -35,3 +35,6 @@ Pelanggan disimulasikan dengan nomor antrian (sebuah bilangan desimal).
   6. Jika memilih cetak antrian, maka cetak antriannya
   
   7. Program selesai
+
+Reference:
+1. https://drive.google.com/file/d/1xAQHkF3mZfXNSP3P5tAHSSdu4DeIDEYF/view?usp=sharing
